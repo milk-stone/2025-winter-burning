@@ -22,9 +22,8 @@
 - ps : Problem-solve 문제 풀이 후 코드 업로드
     - 파이썬, 자바 등 원하는 언어 사용 가능
     - 문제 자유롭게 선택
-- spring : 새로운 스프링 프로젝트 생성 후 개발하고 싶었던 것들 개발하기
-    - 개발하고 싶은 목록들 Issue에 작성할 예정.
-    - 기능 단위 Push, Git close로 issue 닫기.
+- project : 별개의 레포지토리 운영
+    - [Book Village : 도서 대여 서비스](https://github.com/milk-stone/Book-Village) 참고
 
 ### 커밋 컨벤션
 
@@ -44,13 +43,9 @@
     <br><br>
     사용한 언어 : python
     
-- spring : 작성한 기능 단위로 push
+- project : [Book-Village Repository](https://github.com/milk-stone/Book-Village)
     
-    🛠 멘트 예시
-    
-    > feat : 카카오 로그인 API 구현
-    <br><br>
-    적고싶은 내용들
+    링크된 레포지토리 참고
 
 ---
 ### Problem Solve
